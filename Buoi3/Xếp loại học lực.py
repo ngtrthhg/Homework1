@@ -1,0 +1,5 @@
+A=float(input())
+if A>=8: print("Giỏi")
+elif A>=6.5: print("Khá")
+elif A>=5: print("Trung bình")
+else: print("Yếu")
